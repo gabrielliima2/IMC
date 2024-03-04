@@ -3,11 +3,11 @@ import { AlertError } from './alert-error.js'
 import { calculateIMC, notANumber } from './utils.js'
 
 // variables
-const form = document.querySelector('form')
+const button = document.querySelector('button')
 const inputWeight = document.querySelector('#weight')
 const inputHeight = document.querySelector('#height')
 
-form.onclick = event => {
+button.onclick = event => {
     event.preventDefault()
 
     const weight = inputWeight.value
