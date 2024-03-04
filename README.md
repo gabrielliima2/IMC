@@ -1,4 +1,4 @@
-<h1 align="center"> Jogo da Adivinhação</h1>
+<h1 align="center"> Calculadora de IMC </h1>
 
 <p align="center">
 Programa exclusivo para estudo de tecnologias WEB.
